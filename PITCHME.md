@@ -17,19 +17,28 @@ Dont install it! Just play with it:
 - [myPWD](http://pwd.lalyo.sh)
 
 ---
-## PWD stacks
+## PWD stacks - 1
 
 PWD Stacks:
 - [github: pwd/stacks](https://github.com/play-with-docker/stacks/)
 
 DockerHub
-- [elasticsearch](https://hub.docker.com/_/elasticsearch/)
-- [jumla](https://hub.docker.com/_/jumla/)
+- [wordpress](https://hub.docker.com/_/wordpress/)
 - [drupal](https://hub.docker.com/_/drupal/)
 - [ghost](https://hub.docker.com/_/ghost/)
+- [joomla](https://hub.docker.com/_/joomla/)
+
+---
+## PWD stacks - 2
+
+Some more ...
+
+- [elasticsearch](https://hub.docker.com/_/elasticsearch/)
+- [registry](https://hub.docker.com/_/registry/)
 
 Find by name `stack.yml`
 - [github-find](https://github.com/docker-library/docs/find/master)
+
 ---
 
 # Kerdes?
