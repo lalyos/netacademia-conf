@@ -4,7 +4,7 @@
 
 ### <span class="gold" >Papp Lalyos</span>
 
- <span class="byline"> [ I. NetAcademia Webfejlesztő Konferencia ] </span>
+ <span class="byline"> I. NetAcademia Webfejlesztő Konferencia </span>
 
 ---
 
