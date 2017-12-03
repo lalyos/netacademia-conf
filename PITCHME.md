@@ -1,6 +1,6 @@
 ---
 
-## A Docker az ellen is véd!
+### A Docker az ellen is véd!
 <br>
 <br>
 #### <span class="gold" >Papp Lalyos</span>
@@ -66,7 +66,6 @@ Revers Proxy
 
 ![virageso](https://gifszinhaz.s3.amazonaws.com/uploads/gif/055_2_anim.gif)
 
----
  
 - [tarantino](https://i.pinimg.com/originals/22/e2/21/22e221cd7f2e208aa2f08a550ef81471.gif)
 - [taps](http://i.imgur.com/OoybIc2.gif)
@@ -76,7 +75,7 @@ Revers Proxy
 - [hurra](https://gifszinhaz.s3.amazonaws.com/uploads/gif/038_2_anim.gif)
 - [magic](https://i.giphy.com/ujUdrdpX7Ok5W.gif)
 
----
+
 # Animgifs
 ![tarantino](https://i.pinimg.com/originals/22/e2/21/22e221cd7f2e208aa2f08a550ef81471.gif)
 ![taps](http://i.imgur.com/OoybIc2.gif)
