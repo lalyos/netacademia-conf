@@ -25,6 +25,13 @@ mention KataCoda: https://www.katacoda.com/learn
  ## Demo
 ![demo](https://s3.amazonaws.com/media-p.slid.es/uploads/lalyos/images/943459/tenyer-dorzsol.gif)
 ---
+
+## Container / VM
+
+Containers are similar to VMs but not quite ...
+
+![container-vm](assets/docker-cont-vm.png)
+---
 ## PWD stacks - 1
 
 PWD Stacks:
