@@ -1,6 +1,6 @@
 theme : night
 theme-override : assets/PITCHME.css
 background : assets/wallpaper.jpg
-logo : assets/mono_vertical_small.png
+logo : assets/moby-orange.png
 transition : none
 published : true
