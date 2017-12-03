@@ -11,10 +11,25 @@
 ## First steps with docker
 
 Dont install it! Just play with it: 
+
+- [PWD trainings](http://training.play-with-docker.com)
 - [PWD](http://play-with-docker.com)
 - [myPWD](http://pwd.lalyo.sh)
-- [PWD trainings](http://training.play-with-docker.com)
 
+---
+## PWD stacks
+
+PWD Stacks:
+- [github: pwd/stacks](https://github.com/play-with-docker/stacks/)
+
+DockerHub
+- [elasticsearch](https://hub.docker.com/_/elasticsearch/)
+- [jumla](https://hub.docker.com/_/jumla/)
+- [drupal](https://hub.docker.com/_/drupal/)
+- [ghost](https://hub.docker.com/_/ghost/)
+
+Find by name `stack.yml`
+- [github-find](https://github.com/docker-library/docs/find/master)
 ---
 
 # Kerdes?
