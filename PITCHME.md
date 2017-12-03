@@ -17,6 +17,10 @@ Dont install it! Just play with it:
 - [PWD](http://play-with-docker.com)
 - [myPWD](http://pwd.lalyo.sh)
 
+Note:
+mention KataCoda: https://www.katacoda.com/learn 
+[KataCoda](https://www.katacoda.com/courses/docker/playground)
+[Editor](https://www.katacoda.com/courses/golang/playground)
 ---
  ## Demo
 ![demo](https://s3.amazonaws.com/media-p.slid.es/uploads/lalyos/images/943459/tenyer-dorzsol.gif)
