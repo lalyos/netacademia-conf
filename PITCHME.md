@@ -4,7 +4,7 @@
 
 ### <span class="gold" >Papp Lalyos</span>
 
-#### I. NetAcademia Webfejlesztő Konferencia
+ <span class="byline"> [ I. NetAcademia Webfejlesztő Konferencia ] </span>
 
 ---
 
@@ -40,9 +40,47 @@ Find by name `stack.yml`
 - [github-find](https://github.com/docker-library/docs/find/master)
 
 ---
+## Wordpress
 
+```
+docker exec -it \
+ $(docker ps -qf expose=3306) \
+ mysql -u root -psomewordpress wordpress
+```
+---
+
+## Multiple Backends
+
+Revers Proxy
+- haproxy
+- nginx
+- trafik [mutyi](https://docs.traefik.io)
+
+---
 # Kerdes?
 
 ---
 
 # The End
+
+![virageso](https://gifszinhaz.s3.amazonaws.com/uploads/gif/055_2_anim.gif)
+
+---
+ 
+- [tarantino](https://i.pinimg.com/originals/22/e2/21/22e221cd7f2e208aa2f08a550ef81471.gif)
+- [taps](http://i.imgur.com/OoybIc2.gif)
+- [szalad](https://i.makeagif.com/media/5-14-2015/sOnIJG.gif)
+- [noormalis](https://i.makeagif.com/media/11-10-2015/SgtFEy.gif)
+- [wtf](https://gifszinhaz.s3.amazonaws.com/uploads/gif/015_2_anim.gif)
+- [hurra](https://gifszinhaz.s3.amazonaws.com/uploads/gif/038_2_anim.gif)
+- [magic](https://i.giphy.com/ujUdrdpX7Ok5W.gif)
+
+---
+# Animgifs
+![tarantino](https://i.pinimg.com/originals/22/e2/21/22e221cd7f2e208aa2f08a550ef81471.gif)
+![taps](http://i.imgur.com/OoybIc2.gif)
+![szalad](https://i.makeagif.com/media/5-14-2015/sOnIJG.gif)
+![noormalis](https://i.makeagif.com/media/11-10-2015/SgtFEy.gif)
+![wtf](https://gifszinhaz.s3.amazonaws.com/uploads/gif/015_2_anim.gif)
+![hurra](https://gifszinhaz.s3.amazonaws.com/uploads/gif/038_2_anim.gif)
+![magic](https://i.giphy.com/ujUdrdpX7Ok5W.gif)
