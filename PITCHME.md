@@ -2,9 +2,9 @@
 
 # A Docker az ellen is véd!
 
-## Papp Lalyos
+### <span class="gold" >Papp Lalyos</span>
 
-### I. NetAcademia Webfejlesztő Konferencia
+#### I. NetAcademia Webfejlesztő Konferencia
 
 ---
 
