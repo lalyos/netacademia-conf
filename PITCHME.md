@@ -32,6 +32,14 @@ Containers are similar to VMs but not quite ...
 
 ![container-vm](assets/docker-cont-vm.png)
 ---
+## Benefits
+
+- quick/small
+- environment drift: it was working on my machine (tm)
+- reproducible build
+- reproducible db
+- 
+---
 ## PWD stacks - 1
 
 PWD Stacks:
