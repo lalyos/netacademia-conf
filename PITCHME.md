@@ -48,8 +48,10 @@ DockerHub
 
 Some more ...
 
+- [FaaS](https://raw.githubusercontent.com/openfaas/faas/master/docker-compose.yml)
 - [elasticsearch](https://hub.docker.com/_/elasticsearch/)
 - [registry](https://hub.docker.com/_/registry/)
+- [swarmpit](https://github.com/swarmpit/swarmpit)
 
 Find by name `stack.yml`
 - [github-find](https://github.com/docker-library/docs/find/master)
