@@ -35,10 +35,12 @@ Containers are similar to VMs but not quite ...
 ## Benefits
 
 - quick/small
-- environment drift: it was working on my machine (tm)
+- it was working on my machine (tm)
+- security
 - reproducible build
 - reproducible db
-- 
+- testing : local env / new software   
+
 ---
 ## PWD stacks - 1
 
