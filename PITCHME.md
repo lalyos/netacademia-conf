@@ -42,6 +42,14 @@ Containers are similar to VMs but not quite ...
 - testing : local env / new software   
 
 ---
+### Image and Container
+
+Images 
+- tar file: filesystem + meta
+- immutable!
+
+![img-cont](assets/docker-image-vs-cont.png)
+---
 ## PWD stacks - 1
 
 PWD Stacks:
