@@ -78,7 +78,7 @@ docker exec -it \
 
 ## Multiple Backends
 
-Revers Proxy
+Reverse Proxy
 - haproxy
 - nginx
 - trafik [mutyi](https://docs.traefik.io)
