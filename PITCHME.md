@@ -35,7 +35,7 @@ Containers are similar to VMs but not quite ...
 ## Benefits
 
 - quick/small
-- it was working on my machine (tm)
+- it was working on my machine &#8482;
 - security
 - reproducible build
 - reproducible db
