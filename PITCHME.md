@@ -50,6 +50,15 @@ Images
 
 ![img-cont](assets/docker-image-vs-cont.png)
 ---
+## Image workflow
+
+![image-workflow](assets/docker-interactions.png)
+
+--- 
+## Volumes
+
+![volumes](assets/volumes.png)
+---
 ## PWD stacks - 1
 
 PWD Stacks:
